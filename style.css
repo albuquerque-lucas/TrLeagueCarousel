@@ -1,0 +1,12 @@
+.carousel-container{
+    max-height: 50rem;
+    max-width: 99%;
+    position: relative;
+    top: 50px;
+    margin: 5rem 1rem;
+}
+
+.carousel-item img{
+    max-height: 50rem;
+    object-fit: cover;
+}
